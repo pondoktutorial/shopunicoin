@@ -165,4 +165,18 @@ flex-direction: column;
   .sidebar-menu {
     margin-top: 85px;
 }
+.menu {
+    float: left;
+}
+.payout {
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+.payout h3 {
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
 }
