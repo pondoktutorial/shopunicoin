@@ -125,7 +125,7 @@
 
         ?>
 
-        <div class="col-md-3">
+        <div class="col-sm-6">
 
           <div class="order-item">
             <h3><?php echo $orderitem['productName'];?></h3>
