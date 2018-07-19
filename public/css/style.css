@@ -161,3 +161,8 @@ flex-direction: column;
   .text{display: none;}
 
 }
+@media (max-width: 480px){
+  .sidebar-menu {
+    margin-top: 85px;
+}
+}
