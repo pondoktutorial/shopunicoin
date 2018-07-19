@@ -156,5 +156,8 @@ flex-direction: column;
   border-radius: 5px;
 }
 @media (max-width: 720px){
+  .sidebar{width:auto;}
+  .main{ padding: 20px;width: 90%;margin-top: 80px;margin-left: 60px;}
   .text{display: none;}
+
 }
