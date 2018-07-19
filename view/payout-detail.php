@@ -5,6 +5,9 @@
 
       <div class="payout">
         <h3>Payout Detail</h3>
+        <div class="table-responsive">
+          
+        
         <table class="table table-striped">
     <thead>
       <tr>
@@ -50,6 +53,7 @@
 
     </tbody>
   </table>
+  </div>
       </div>
 
     </div>

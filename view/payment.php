@@ -5,7 +5,7 @@
   <h4>Payment INVOICE <span class="invoice">#<?php echo $_SESSION['invoicenumber'];?></span></h4>
   <div class="invoice-box">
     <div class="row">
-      <div class="col-4">
+      <div class="col-md-4">
         <div class="invoice-location">
           <strong>From</strong>
           <p>PT. Unicoin Indonesia Inv PIK Avenue Mall DI Unit 6FI-C1 Jl. Pantai Indah Barat No. 1 Kamal Muara, Penjaringan Jakarta Utara DKI Jakarta 14470 Indonesia
@@ -13,7 +13,7 @@
           <strong>Email: info@unicoin-mining.com</strong>
         </div>
       </div>
-      <div class="col-4">
+      <div class="col-md-4">
         <div class="invoice-location">
           <p><strong>To</strong></p>
           <span style="text-transform: capitalize;"><?php echo $_SESSION['memberName'];?></span>
@@ -122,7 +122,7 @@ Pelanggan mengetahui akan resiko aset digital (contoh penurunan nilai tukar aset
           </div>
         </div>
       </div>
-      <div class="col-4">
+      <div class="col-md-4">
         <strong>Invoice #<?php echo $_SESSION['invoicenumber'];?></strong>
         <br>
 
@@ -174,14 +174,14 @@ Pelanggan mengetahui akan resiko aset digital (contoh penurunan nilai tukar aset
     </div>
     <div class="row">
       <!-- accepted payments column -->
-      <div class="col-6">
+      <div class="col-md-6">
         <p class="lead">Payment Methods:</p>
         <p><strong>Manual Transfer to BCA</strong></p>
         <p>6351.9999.91 a/n PT. Unicoin Indonesia Inv.</p>
 
       </div>
       <!-- /.col -->
-      <div class="col-6">
+      <div class="col-md-6">
         <div class="table-responsive">
           <table class="table">
             <tbody>

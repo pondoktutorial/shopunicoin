@@ -19,7 +19,10 @@
       </div>
       <div class="payout">
         <h3>Payout Balance</h3>
-        <table class="table table-striped table-responsive">
+        <div class="table-responsive">
+          
+       
+        <table class="table table-striped">
     <thead>
       <tr>
 
@@ -59,6 +62,7 @@
 </tr>
     </tbody>
   </table>
+   </div>
       </div>
 
     </div>

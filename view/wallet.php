@@ -5,7 +5,7 @@
 <div class="main">
   <h4>Wallet</h4>
   <div class="row">
-    <div class="col-4">
+    <div class="col-md-4">
       <div class="box-confirmation">
         <form action="/wallet" method="post">
           <div class="form-group">

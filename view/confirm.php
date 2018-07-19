@@ -1,6 +1,7 @@
 <?php require_once('../view/parts/header.php');?>
 <div class="main">
   <h4>Confirmation Page</h4>
+  <div class="table-responsive">
   <table border="0" cellpadding="0" cellspacing="0" class="m_5147148471360373373m_7034754035859388040m_243854346431652930template-container" style="border-collapse:collapse!important;width:100%;max-width:600px">
                           <tbody>
                              <tr>
@@ -224,6 +225,7 @@
                              </tr>
                           </tbody>
                        </table>
+                       </div>
     <!-- 
 <?php print_r($dataconfirm);?>
 <br>
