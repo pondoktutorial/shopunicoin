@@ -31,12 +31,12 @@
     <div class="sidebar">
       <div class="sidebar-menu">
         <ul>
-          <li><a href="/"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/dashboard.svg" alt="" width="20"> Dashboard</a></li>
-          <li><a href="/payout"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/bitcoin.svg" alt="" width="20"> Payout</a></li>
-          <li><a href="/orders"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/cart.svg" alt="" width="20"> Buy Hash Power</a></li>
-          <li><a href="/wallet"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/wallet.svg" alt="" width="20"> Wallet</a></li>
-          <li><a href="/changepassword"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/locked.svg" alt="" width="20"> Change Password</a></li>
-          <li><a href="/setting"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/settings.svg" alt="" width="20"> Setting</a></li>
+          <li><a href="/"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/dashboard.svg" alt="" width="20"> <span class="text">Dashboard</span></a></li>
+          <li><a href="/payout"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/bitcoin.svg" alt="" width="20"> <span class="text">Payout</span></a></li>
+          <li><a href="/orders"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/cart.svg" alt="" width="20"> <span class="text">Buy Hash Power</span></a></li>
+          <li><a href="/wallet"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/wallet.svg" alt="" width="20"> <span class="text">Wallet</span></a></li>
+          <li><a href="/changepassword"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/locked.svg" alt="" width="20"> <span class="text">Change Password</span></a></li>
+          <li><a href="/setting"><img src="https://<?php echo $_SERVER['SERVER_NAME'];?>/images/settings.svg" alt="" width="20"> <span class="text">Setting</span></a></li>
         </ul>
       </div>
     </div>
