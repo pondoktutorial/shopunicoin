@@ -5,7 +5,7 @@
 <div class="main">
   <h4>Settings</h4>
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-8">
       <p>Your Name: <strong><?php echo $_SESSION['memberName'];?></strong></p>
       <hr>
         <p>Your Phone: <strong><?php echo $_SESSION['memberPhone'];?></strong></p>
